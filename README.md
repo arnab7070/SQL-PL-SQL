@@ -6,9 +6,8 @@ Welcome to the SQL Lab Assignments Repository! This repository contains comprehe
 
 1. [Introduction](#introduction)
 2. [Usage](#usage)
-3. [Folder Structure](#folder-structure)
-4. [Contributing](#contributing)
-5. [License](#license)
+3. [Contributing](#contributing)
+4. [License](#license)
 
 ## Introduction
 
