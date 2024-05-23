@@ -1,6 +1,6 @@
 -- always execute the command <set serveroutput on> before running 
 DECLARE
-    id SAILOR.SNAME%TYPE;
+    id SAILOR.SID%TYPE;
     s SAILOR%ROWTYPE;
 BEGIN   
     id := '&id';

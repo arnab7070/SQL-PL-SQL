@@ -1,4 +1,5 @@
 -- always execute the command <set serveroutput on> before running 
+SET SERVEROUTPUT ON;
 DECLARE
 	year NUMBER;
 BEGIN
